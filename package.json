@@ -2,13 +2,13 @@
   "name": "line-continuation-fortran",
   "main": "./lib/line-continuation-fortran",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "To easily add a line continuation marker.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "line-continuation-fortran:toggle"
   },
-  "repository": "https://github.com/atom/line-continuation-fortran",
+  "repository": "https://github.com/kbthomp1/line-continuation-fortran",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
