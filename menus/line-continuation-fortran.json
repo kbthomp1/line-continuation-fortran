@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle line-continuation-fortran",
+        "command": "line-continuation-fortran:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "line-continuation-fortran",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "line-continuation-fortran:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+0.1.0 - First Release	/Users/kbthomp1/atom_packages/line-continuation-fortran/CHANGELOG.md	/^## 0.1.0 - First Release$/;"	function	line:1
+atom-workspace	/Users/kbthomp1/atom_packages/line-continuation-fortran/keymaps/line-continuation-fortran.json	/^  "atom-workspace": {$/;"	function	line:2
+ctrl-alt-o	/Users/kbthomp1/atom_packages/line-continuation-fortran/keymaps/line-continuation-fortran.json	/^    "ctrl-alt-o": "line-continuation-fortran:toggle"$/;"	function	line:3
+constructor	/Users/kbthomp1/atom_packages/line-continuation-fortran/lib/line-continuation-fortran-view.js	/^  constructor(serializedState) {$/;"	function	line:5
+serialize	/Users/kbthomp1/atom_packages/line-continuation-fortran/lib/line-continuation-fortran-view.js	/^  serialize() {}$/;"	function	line:18
+destroy	/Users/kbthomp1/atom_packages/line-continuation-fortran/lib/line-continuation-fortran-view.js	/^  destroy() {$/;"	function	line:21
+getElement	/Users/kbthomp1/atom_packages/line-continuation-fortran/lib/line-continuation-fortran-view.js	/^  getElement() {$/;"	function	line:25
+activate	/Users/kbthomp1/atom_packages/line-continuation-fortran/lib/line-continuation-fortran.js	/^  activate(state) {$/;"	function	line:12
+deactivate	/Users/kbthomp1/atom_packages/line-continuation-fortran/lib/line-continuation-fortran.js	/^  deactivate() {$/;"	function	line:28
+serialize	/Users/kbthomp1/atom_packages/line-continuation-fortran/lib/line-continuation-fortran.js	/^  serialize() {$/;"	function	line:34
+toggle	/Users/kbthomp1/atom_packages/line-continuation-fortran/lib/line-continuation-fortran.js	/^  toggle() {$/;"	function	line:40
+context-menu	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^  "context-menu": {$/;"	function	line:2
+atom-text-editor	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^    "atom-text-editor": [$/;"	function	line:3
+label	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^        "label": "Toggle line-continuation-fortran",$/;"	function	line:5
+command	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^        "command": "line-continuation-fortran:toggle"$/;"	function	line:6
+menu	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^  "menu": [$/;"	function	line:10
+label	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^      "label": "Packages",$/;"	function	line:12
+submenu	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^      "submenu": [$/;"	function	line:13
+label	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^          "label": "line-continuation-fortran",$/;"	function	line:15
+submenu	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^          "submenu": [$/;"	function	line:16
+label	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^              "label": "Toggle",$/;"	function	line:18
+command	/Users/kbthomp1/atom_packages/line-continuation-fortran/menus/line-continuation-fortran.json	/^              "command": "line-continuation-fortran:toggle"$/;"	function	line:19
+name	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "name": "line-continuation-fortran",$/;"	function	line:2
+main	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "main": ".\/lib\/line-continuation-fortran",$/;"	function	line:3
+version	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "version": "0.0.0",$/;"	function	line:4
+description	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "description": "A short description of your package",$/;"	function	line:5
+keywords	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "keywords": [$/;"	function	line:6
+activationCommands	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "activationCommands": {$/;"	function	line:8
+atom-workspace	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^    "atom-workspace": "line-continuation-fortran:toggle"$/;"	function	line:9
+repository	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "repository": "https:\/\/github.com\/atom\/line-continuation-fortran",$/;"	function	line:11
+license	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "license": "MIT",$/;"	function	line:12
+engines	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "engines": {$/;"	function	line:13
+atom	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^    "atom": ">=1.0.0 <2.0.0"$/;"	function	line:14
+dependencies	/Users/kbthomp1/atom_packages/line-continuation-fortran/package.json	/^  "dependencies": {$/;"	function	line:16
+line-continuation-fortran package	/Users/kbthomp1/atom_packages/line-continuation-fortran/README.md	/^# line-continuation-fortran package$/;"	function	line:1
+.line-continuation-fortran	/Users/kbthomp1/atom_packages/line-continuation-fortran/styles/line-continuation-fortran.less	/^.line-continuation-fortran {$/;"	function	line:7
